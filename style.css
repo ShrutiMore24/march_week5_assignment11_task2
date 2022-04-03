@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+.container {
+    height: 400px;
+    width: 600px;
+    margin: auto;
+    background-color: #5d3a3a;
+}
+
+.box {
+    height: 250px;
+    width: 300px;
+    background-color: #b5e0ba;
+}
